@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Analyse des Facteurs d'Apprentissage des Étudiants
 
 ## Description du Projet
@@ -107,3 +108,8 @@ Les facteurs potentiels analysés peuvent inclure :
 - Support familial
 - Ressources disponibles
 - Et autres facteurs pertinents
+=======
+﻿#projet2-_sciences_de_donnees_uqo_2024
+
+Ce projet consistait a faire une analyse sur des eleves afin de determier les facteur qui influencel'apprentissage des etudiants a l'aide d'un modele de regresson lineaire.
+>>>>>>> 65a048500ff998be1ebe156408b9fbdfc6c753d0
